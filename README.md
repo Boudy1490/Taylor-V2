@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wsrv.nl/?url=https://github.com/AyGemuy.png?size=500&w=300&h=300&fit=cover&mask=circle" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
+  <img src="https://wsrv.nl/?url=https://j.top4top.io/p_3186r3b621.jpeg?size=500&w=300&h=300&fit=cover&mask=circle" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 <h1 align="center">Taylor</h1>
